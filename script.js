@@ -74,10 +74,10 @@ alert(`Ви ввели ${positiveCount} додатних чисел, ${negativeC
 //Task 5 
 //Надрукуйте табличку множення для числа  8 від 1 до 9. 8 х 1 = 8
 
-const Num = 8;
+const NUM = 8;
 
 for (let i = 1; i <= 9; i++) {
-    console.log(`${Num} X ${i} = ${Num * i}`)
+    console.log(`${NUM} X ${i} = ${NUM * i}`)
 }
 
 //Task 6 
