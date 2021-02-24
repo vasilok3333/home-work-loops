@@ -58,6 +58,9 @@ for (let i = 0; i < 8; i++) {
     array[i] = +prompt('Введіть будь-яке число', '0');
 }
 
+// array = prompt('Введіть будь-яких вісім чисел через кому').split(','); --------- with one prompt 
+
+
 
 for (let i = 0; i < array.length; i++) {
     if (array[i] < 0) {
